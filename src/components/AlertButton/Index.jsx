@@ -1,4 +1,4 @@
-const Button = ({label, alertLabel}) => {
+const AlertButton = ({label, alertLabel}) => {
     return(
         <button 
         label={label} 
@@ -7,8 +7,8 @@ const Button = ({label, alertLabel}) => {
         </button>
     )
 }
-Button.defaultProps = {
+AlertButton.defaultProps = {
     label: 'vazio'
 }
 
-export default Button
+export default AlertButton
