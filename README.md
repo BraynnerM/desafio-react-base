@@ -26,7 +26,7 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 
-![](./src/image/captura-de-tela.gif)
+![](./src/assets/captura-de-tela.gif)
 
 ### Links
 
